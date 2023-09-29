@@ -1,0 +1,169 @@
+leftnav:
+- identifier: 1b731b6f-4737-b89e-b0e3-58a64d24888a
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  name: 'Unit I: Probability Models And Discrete Random Variables'
+  pageRef: /pages/unit-i/
+  weight: 20
+- identifier: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  name: 'Unit II: General Random Variables'
+  pageRef: /pages/unit-ii/
+  weight: 30
+- identifier: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  name: 'Unit III: Random Processes'
+  pageRef: /pages/unit-iii/
+  weight: 40
+- identifier: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  name: 'Unit IV: Laws Of Large Numbers And Inference'
+  pageRef: /pages/unit-iv/
+  weight: 50
+- identifier: fc5aa2e6-faa1-b7bf-7cc5-be22b6e4d8e0
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 60
+- identifier: ae41cdf6-4102-6e80-720a-f98f3a837b7b
+  name: Resource Index
+  pageRef: /pages/resource-index/
+  weight: 70
+- identifier: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
+  name: Meet The Team
+  pageRef: /pages/syllabus/meet-the-team
+  parent: 1b731b6f-4737-b89e-b0e3-58a64d24888a
+  weight: 10
+- identifier: b7578d11-fa1c-dee6-7b78-56ce34e8db48
+  name: Lecture 1
+  pageRef: /pages/unit-i/lecture-1
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 10
+- identifier: 13d8856f-c0bc-fa17-583d-d3dd142ca31a
+  name: Lecture 2
+  pageRef: /pages/unit-i/lecture-2
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 20
+- identifier: 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929
+  name: Lecture 3
+  pageRef: /pages/unit-i/lecture-3
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 30
+- identifier: 108d48da-58fe-98e5-ce62-e6b1df65eefa
+  name: Lecture 4
+  pageRef: /pages/unit-i/lecture-4
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 40
+- identifier: c23bebfa-7b15-d4af-7f83-d7f19b96837b
+  name: Lecture 5
+  pageRef: /pages/unit-i/lecture-5
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 50
+- identifier: aedead42-950e-896b-b568-a4402ab05dbd
+  name: Lecture 6
+  pageRef: /pages/unit-i/lecture-6
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 60
+- identifier: 06f2cd37-cd92-3c66-ddf2-8ccade9e6a7e
+  name: Lecture 7
+  pageRef: /pages/unit-i/lecture-7
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 70
+- identifier: 7e3927aa-b91f-0313-0647-5e1885bc367e
+  name: Quiz 1
+  pageRef: /pages/unit-i/quiz-1
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  weight: 80
+- identifier: 140e2988-c266-0068-4724-1f9148d8d516
+  name: Lecture 8
+  pageRef: /pages/unit-ii/lecture-8
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  weight: 10
+- identifier: a18c5ed7-4174-bfa2-8380-13a303933305
+  name: Lecture 9
+  pageRef: /pages/unit-ii/lecture-9
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  weight: 20
+- identifier: 5d1de23e-b7c4-9423-7bfa-ababd1266729
+  name: Lecture 10
+  pageRef: /pages/unit-ii/lecture-10
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  weight: 30
+- identifier: 4359e52b-be89-7809-e0a4-c64ed6ae4af7
+  name: Lecture 11
+  pageRef: /pages/unit-ii/lecture-11
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  weight: 40
+- identifier: d2fb21e5-831b-05e6-e0e1-5720b8f29dba
+  name: Lecture 12
+  pageRef: /pages/unit-ii/lecture-12
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  weight: 50
+- identifier: 6fa0388f-081f-b91b-7c60-7bf0b0f6197d
+  name: Quiz 2
+  pageRef: /pages/unit-ii/quiz-2
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  weight: 60
+- identifier: c2de91c2-c31e-3e16-f00c-bc8087ae8b53
+  name: Lecture 13
+  pageRef: /pages/unit-iii/lecture-13
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  weight: 10
+- identifier: 8e470ec3-a395-bf84-a620-8d352722d79f
+  name: Lecture 14
+  pageRef: /pages/unit-iii/lecture-14
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  weight: 20
+- identifier: 091b0bdf-2c56-e919-8e8d-1be1365e4db6
+  name: Lecture 15
+  pageRef: /pages/unit-iii/lecture-15
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  weight: 30
+- identifier: 8f3c76f8-cf51-30bb-1aea-bcdc51a3cfa3
+  name: Lecture 16
+  pageRef: /pages/unit-iii/lecture-16
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  weight: 40
+- identifier: 6c61e0f1-a4af-4a3b-6a5b-478304353f11
+  name: Lecture 17
+  pageRef: /pages/unit-iii/lecture-17
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  weight: 50
+- identifier: 8fbf8bfb-c4ce-ea14-c0cc-3541ace7c6a4
+  name: Lecture 18
+  pageRef: /pages/unit-iii/lecture-18
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  weight: 60
+- identifier: a7292289-e3eb-1f87-59fe-7822a15409c3
+  name: Lecture 19
+  pageRef: /pages/unit-iv/lecture-19
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 10
+- identifier: 7130cfbd-1446-2844-68da-e83bdd28e426
+  name: Lecture 20
+  pageRef: /pages/unit-iv/lecture-20
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 20
+- identifier: ae332133-ad68-021b-8c11-95c3e6b70d0d
+  name: Lecture 21
+  pageRef: /pages/unit-iv/lecture-21
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 30
+- identifier: 38d8f7e6-57b0-d5c7-d135-07f467ed742b
+  name: Lecture 22
+  pageRef: /pages/unit-iv/lecture-22
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 40
+- identifier: eadd11a6-d653-17c5-f7d8-eae998cdc5e6
+  name: Lecture 23
+  pageRef: /pages/unit-iv/lecture-23
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 50
+- identifier: 29dea00b-5d03-c47e-e671-3d65b06ab496
+  name: Lecture 24
+  pageRef: /pages/unit-iv/lecture-24
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 60
+- identifier: 954792d8-6c4c-0407-b8df-99d7c887dade
+  name: Lecture 25
+  pageRef: /pages/unit-iv/lecture-25
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  weight: 70
